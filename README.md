@@ -4,13 +4,13 @@
 
 
      👇⚠️ Command ⚠️👇
-👉git clone https://github.com/Darkwolfrabin/camhack.git
+👉git clone https://github.com/Darkwolfrabin/camhacked.git
 
 
-👉cd camhack
+👉cd camhacked
 
 
-👉python camhacked.py
+👉python cctvhack11w.py
 
 
       👿 Thanks for using my tool 👻
